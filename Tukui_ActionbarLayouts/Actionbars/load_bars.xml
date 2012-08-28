@@ -1,0 +1,12 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="2x12BB_3x12RB.lua" />
+	<Script file="3x12BB_2x12RB.lua" />
+	<Script file="4x12BB_1x12RB.lua" />
+	<Script file="5x12BB.lua" />
+	<Script file="2x12BB_2x3BSB_2x12RB.lua" />
+	<Script file="3x12BB_3x2BSB_1x12RB.lua" />
+	<Script file="3x12BB_4x3BSB.lua" />
+	<Script file="Belkin_n52.lua" />
+	<Script file="2x24BB_1x12RB.lua" />
+	<Script file="2x24BB_2x3BSB.lua" />
+</Ui>

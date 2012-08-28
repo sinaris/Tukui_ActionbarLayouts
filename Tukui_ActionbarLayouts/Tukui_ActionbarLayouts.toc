@@ -1,0 +1,18 @@
+## Interface: 50001
+## Title: Tukui Actionbar Layouts
+## Notes: Different Actionbar Layouts for Tukui
+## Version: 1.0
+## Author: Sinaris
+## RequiredDeps: Tukui
+## X-oUF: oUFTukui
+## SavedVariables: TABLData
+## SavedVariablesPerCharacter: TABLDataPerChar
+
+Core\Init.lua
+Core\Install.lua
+Core\Config.lua
+Core\UnitframeFix.lua
+
+Buttons\load_buttons.xml
+Layouts\load_layouts.xml
+Actionbars\load_bars.xml
